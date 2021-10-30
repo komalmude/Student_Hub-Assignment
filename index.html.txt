@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SHALINI AMBADE</title>
+</head>
+<body>
+    
+<h1>Header H1</h1>
+<h2>Hearde H2</h2>
+<h3>Header H3</h3>
+<h4>Header H4</h4>
+<h5>Header H5</h5>
+<h6>Header H6</h>
+
+     <p>The English noun summary comes straight from the Latin neuter noun
+            summārium “abridgment, abstract, epitome,” an extremely rare word used
+            only once in the surviving Latin literature by the Roman author, tragedian, statesman,
+            and Stoic philosopher Seneca </p>
+   
+   
+     <p>The English noun summary comes straight from the Latin neuter noun
+            summārium “abridgment, abstract, epitome,” an extremely rare word used
+            only once in the surviving Latin literature by the Roman author, tragedian, statesman,
+            and Stoic philosopher Seneca </p>
+       
+     <p>The English noun summary comes straight from the Latin neuter noun
+            summārium “abridgment, abstract, epitome,” an extremely rare word used
+            only once in the surviving Latin literature by the Roman author, tragedian, statesman,
+            and Stoic philosopher Seneca </p>
+           
+     <p>The English noun summary comes straight from the Latin neuter noun
+            summārium “abridgment, abstract, epitome,” an extremely rare word used
+            only once in the surviving Latin literature by the Roman author, tragedian, statesman,
+            and Stoic philosopher Seneca </p>
+               
+     <a href="https://www.google.com/">Google</a><hr>
+     <a href="https://www.w3schools.com/">w3school</a><hr>
+
+ 
+     <img src="02.jpg" alt="" height="200px" width="200px"><hr>
+     <img src="https://media.gettyimages.com/photos/deekshabhoomi-picture-id1296288838?k=20&m=1296288838&s=612x612&w=0&h=WVrZ102UZOJU3VsKK2MPwgNNkgcxoJ90VbR0-0YQnLU=" alt="">
+
+
+
+
+
+</body>
+</html>
